@@ -1,0 +1,10 @@
+/*  
+    User CSS template for sites exported by MyInfo.
+    This file will be inserted in each page of the web site, after all other CSS files.
+*/
+
+/*******************/
+/* TREE FORMATTING */
+/*******************/
+
+.folder { background: url(images/collapse.gif); }
